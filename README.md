@@ -15,8 +15,8 @@ Please feel free to create pull request for these kinds of pandas usages that oc
 
 ## Index
 
-- 1. What is pandas Index object?
-- 2. What is pandas Series object?
-- 3. 80% of errors may attribute to wrong usage of pandas dtype.
-- 4. cross_tab function
-- 5. combine to columns to a dictionary. 
+1. [What is pandas Index object?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/1_Learning_Index.ipynb)
+2. [What is pandas Series object?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/2_Learning_Series.ipynb)
+3. [80% of errors may attribute to wrong usage of pandas dtype.](https://github.com/frankligy/pandas_by_examples/blob/main/examples/3_Learning_dtype.ipynb)
+4. [cross_tab function](https://github.com/frankligy/pandas_by_examples/blob/main/examples/4_crosstab.ipynb)
+5. [combine to columns to a dictionary.](https://github.com/frankligy/pandas_by_examples/blob/main/examples/5_columns2dict.ipynb) 
