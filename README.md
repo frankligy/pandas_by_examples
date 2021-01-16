@@ -9,6 +9,8 @@ When you browse through Stackoverflow or reading blogs on Toward Data Science, h
 
 This repository aims to store these impressive solutions in pandas and the associated examples. Each real-world task will be presented as a jupyter files to make it easy to follow step by step.
 
+If we want to know more about the motivation, Read the blog I published on Toward Data Science: https://towardsdatascience.com/learning-pandas-by-examples-8105771c723c
+
 ## Contribution
 
 Please feel free to create pull request for these kinds of pandas usages that occur in your daily coding. 
