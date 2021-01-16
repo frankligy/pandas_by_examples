@@ -19,4 +19,4 @@ Please feel free to create pull request for these kinds of pandas usages that oc
 2. [What is pandas Series object?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/2_Learning_Series.ipynb)
 3. [80% of errors may attribute to wrong usage of pandas dtype.](https://github.com/frankligy/pandas_by_examples/blob/main/examples/3_Learning_dtype.ipynb)
 4. [cross_tab function](https://github.com/frankligy/pandas_by_examples/blob/main/examples/4_crosstab.ipynb)
-5. [combine to columns to a dictionary.](https://github.com/frankligy/pandas_by_examples/blob/main/examples/5_columns2dict.ipynb) 
+5. [combine two columns to a dictionary.](https://github.com/frankligy/pandas_by_examples/blob/main/examples/5_columns2dict.ipynb) 
