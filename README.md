@@ -26,3 +26,4 @@ Please feel free to create pull request for these kinds of pandas usages that oc
 7. [How to bounce between long and wide form dataframe?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/7_long_wide_conversion.ipynb)
 8. [Two dataframes, how to only keep common rows between two, or common columns?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/8_merge2df.ipynb)
 9. [How to customize the order of dataframe columns? based on user-defined criterion?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/9_custom_column_order.ipynb) 
+10. [How to read R format data?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/10_read_R_data.ipynb)
