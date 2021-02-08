@@ -27,3 +27,5 @@ Please feel free to create pull request for these kinds of pandas usages that oc
 8. [Two dataframes, how to only keep common rows between two, or common columns?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/8_merge2df.ipynb)
 9. [How to customize the order of dataframe columns? based on user-defined criterion?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/9_custom_column_order.ipynb) 
 10. [How to read R format data?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/10_read_R_data.ipynb)
+11. [How to insert a row into a arbitrary index?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/11_insert_rows.ipynb)
+12. [Don't mix ndarray, Series, List!](https://github.com/frankligy/pandas_by_examples/blob/main/examples/12_array_series_list.ipynb)
