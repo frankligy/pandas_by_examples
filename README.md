@@ -29,4 +29,4 @@ Please feel free to create pull request for these kinds of pandas usages that oc
 10. [How to read R format data?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/10_read_R_data.ipynb)
 11. [How to insert a row into a arbitrary index?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/11_insert_rows.ipynb)
 12. [Don't mix ndarray, Series, List!](https://github.com/frankligy/pandas_by_examples/blob/main/examples/12_array_series_list.ipynb)
-13. [Using bracket when having multiple condition!](https://github.com/frankligy/pandas_by_examples/blob/main/examples/13_multiple_condision.ipynb)
+13. [Using bracket when having multiple condition!](https://github.com/frankligy/pandas_by_examples/blob/main/examples/13_multiple_condition.ipynb)
