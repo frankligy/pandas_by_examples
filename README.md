@@ -20,7 +20,7 @@ Please feel free to create pull request for these kinds of pandas usages that oc
 1. [What is pandas Index (MultiIndex) object?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/1_Learning_Index.ipynb)
 2. [What is pandas Series object?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/2_Learning_Series.ipynb)
 3. [80% of errors may attribute to wrong usage of pandas dtype.](https://github.com/frankligy/pandas_by_examples/blob/main/examples/3_Learning_dtype.ipynb)
-4. [cross_tab function](https://github.com/frankligy/pandas_by_examples/blob/main/examples/4_reshape.ipynb)
+4. [reshaping functions](https://github.com/frankligy/pandas_by_examples/blob/main/examples/4_reshape.ipynb)
 5. [combine two columns to a dictionary.](https://github.com/frankligy/pandas_by_examples/blob/main/examples/5_columns2dict.ipynb) 
 6. [When should use squeeze function?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/6_squeeze.ipynb)
 7. [How to bounce between long and wide form dataframe?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/7_long_wide_conversion.ipynb)
