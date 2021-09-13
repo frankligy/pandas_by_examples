@@ -34,3 +34,4 @@ Please feel free to create pull request for these kinds of pandas usages that oc
 15. [Read a 10G file into pandas?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/15_larger_file.ipynb)
 16. [Annotated dataframe -- AnnData](https://github.com/frankligy/pandas_by_examples/blob/main/examples/16_anndata.ipynb)
 17. [How to extract (index,column) pairs based on value?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/17_index_column_pair.ipynb)
+18. [More about MultiIndex](https://github.com/frankligy/pandas_by_examples/blob/main/examples/18_MultiIndex.ipynb)
