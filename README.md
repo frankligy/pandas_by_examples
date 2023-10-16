@@ -28,4 +28,5 @@ Please feel free to create pull request for these kinds of pandas usages that oc
 9. [How to extract (index,column) pairs based on value?](https://github.com/frankligy/pandas_by_examples/blob/main/examples/9_index_column_pair.ipynb)
 10. [Extremely large dataframe](https://github.com/frankligy/pandas_by_examples/blob/main/examples/10_larger_file.ipynb)
 11. [AnnData: Annotated DataFrame](https://github.com/frankligy/pandas_by_examples/blob/main/examples/11_anndata.ipynb)
-12. Stay tuned
+12. [How to order dataframe based on custom order](https://github.com/frankligy/pandas_by_examples/blob/main/examples/12_custom_order.ipynb)
+13. stay tuned
